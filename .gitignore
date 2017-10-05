@@ -11,3 +11,4 @@ application/logs/*
 !application/logs/.htaccess
 /vendor/
 .DS_Store
+composer.lock
